@@ -13,3 +13,4 @@ Hi there, I'm Myriam 👋<br><br>🚀 20 y/o dev student | Breaking things in C 
 [![](https://komarev.com/ghpvc/?username=myriam2805&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Snake](https://raw.githubusercontent.com/myriam2805/myriam2805/output/github-contribution-grid-snake.svg)
